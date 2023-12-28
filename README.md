@@ -36,8 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EX 1 2_page-0001](https://github.com/Diliarasu/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144979593/284ddbb7-6faa-47d9-8bc7-6fc07017e544)
 
+![Screenshot 2023-12-28 201252](https://github.com/Diliarasu/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144979593/d4aaaabb-0d0a-4221-905a-c52fbb2f8ecc)
 
  
  ## RESULT
